@@ -2,7 +2,7 @@
 
 > Status: Finalizado ✔️
 
-### Contents
+### Conteúdo
 
 * [Requesitos](#requesitos)
 * [Tecnologias Usadas](#tecnologias)
@@ -33,7 +33,7 @@
 
 - Clone o repositório para o seu dispositivo;
 - Importe-o como MAVEN project;
-- Por padrão esta aplicação executa sob a porta padrão 5170. Para alterar esta porta, navegue ate .../src/main/resources/application.properties e edite
+- Por padrão esta aplicação executa sob a porta 5170. Para alterar esta porta, navegue ate .../src/main/resources/application.properties e edite
 ### Application.properties
 ```xml
 server.port=
