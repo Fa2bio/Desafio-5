@@ -1,6 +1,6 @@
 <h1>Spring Boot - React</h1>
 
-> Status: Finished ✔️
+> Status: Finalizado ✔️
 
 ## Contents
   
