@@ -2,14 +2,14 @@
 
 > Status: Finalizado ✔️
 
-## Contents
+## Conteúdo
   
 * [O que é ?](#what-is-it)
 * [Instalação](#installation)
 
 ## <a name="what-is-it"></a>O que é ?
 
-- Este projeto é uma aplicação desenvolvida para recuperar dados de banco de dados por um endpoint utilizando o Http GET e aproveita-los em uma aplicação react web.
+- Este projeto é uma aplicação desenvolvida utilizando Java, Spring Boot e h2 database com o intuito de recuperar dados de banco de dados por um endpoint utilizando o verbo Http GET e aproveitar esses dados uma aplicação JavaScript e React.
 
 ## <a name="installation"></a>Instalação
 
