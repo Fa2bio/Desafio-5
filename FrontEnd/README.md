@@ -1,4 +1,4 @@
-<h1>Spring Boot - React</h1>
+<h1>React</h1>
 
 > Status: Finalizado ✔️
 
