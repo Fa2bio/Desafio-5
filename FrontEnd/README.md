@@ -12,7 +12,8 @@
 
 ## <a name="requesitos"></a>Requesitos
 
-- Javascript
+- npm
+- node
 
 ## <a name="tecnologias"></a>Tecnologias Usadas
 
